@@ -1,4 +1,4 @@
-# 🚆 [App-Name] – Dein smarter DACH-Zugbegleiter
+# 🚆 DesiTrain – Dein smarter DACH-Zugbegleiter
 
 > Moderne Reiseauskunft, Echtzeitdaten und detaillierte Fahrzeuginformationen für Bahnbegeisterte und Pendler im DACH-Raum (ÖBB, DB & SBB).
 
