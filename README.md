@@ -1,6 +1,6 @@
 # 🚆 DesiTrain – Dein smarter DACH-Zugbegleiter
 
-> <code style="color : red">Das Projekt befindet sich aktuell noch in der Beta. Der Routenplaner ist schon ziemlich weit fortgeschritten und kann benutzt werden, allerdings sind die anderen Abschnitte wie Tägliche Routinen und Live-Abfahrtstafel noch nicht fertig implementiert.</code>
+<code style="color : red">Das Projekt befindet sich aktuell noch in der Beta. Der Routenplaner ist schon ziemlich weit fortgeschritten und kann benutzt werden, allerdings sind die anderen Abschnitte wie Tägliche Routinen und Live-Abfahrtstafel noch nicht fertig implementiert.</code>
 
 ---
 
