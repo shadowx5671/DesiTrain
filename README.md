@@ -1,6 +1,6 @@
 # 🚆 DesiTrain – Dein smarter DACH-Zugbegleiter
 
-> Moderne Reiseauskunft, Echtzeitdaten und detaillierte Fahrzeuginformationen für Bahnbegeisterte und Pendler im DACH-Raum (ÖBB, DB & SBB).
+> <code style="color : red">Das Projekt befindet sich aktuell noch in der Beta. Der Routenplaner ist schon ziemlich weit fortgeschritten und kann benutzt werden, allerdings sind die anderen Abschnitte wie Tägliche Routinen und Live-Abfahrtstafel noch nicht fertig implementiert.</code>
 
 ---
 
