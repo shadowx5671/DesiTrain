@@ -45,21 +45,6 @@ Die App aggregiert und verarbeitet Daten aus dem gesamten DACH-Raum:
 
 ---
 
-## 🛠️ Tech Stack & Schnittstellen
-
-* **Frontend / Framework:** *[z. B. Kotlin / Jetpack Compose / Flutter / React Native]*
-* **Backend / APIs:** HAFAS / Open Data APIs (ÖBB Scotty, DB Navigator, SBB API)
-* **Architektur:** Clean Architecture / MVVM
-
----
-
 ## 🚀 Installation & Setup
 
-### Voraussetzungen
-* *[z. B. Android Studio / Flutter SDK / .NET]*
-
-### Repository klonen & starten
-```bash
-git clone [https://github.com/dein-nutzername/dein-repo.git](https://github.com/dein-nutzername/dein-repo.git)
-cd dein-repo
-# Befehle zum Bauen/Starten der App (z.B. ./gradlew assembleDebug)
+Lade dir die neueste APK von Realeses runter und installiere sie ganz einfach auf deinem Android Gerät in dem du sie öffnest :)
