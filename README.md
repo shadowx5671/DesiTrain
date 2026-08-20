@@ -40,8 +40,8 @@ Die App aggregiert und verarbeitet Daten aus dem gesamten DACH-Raum:
 
 | Verbindungssuche | Fahrtverlauf & Details | Wagenreihung & Ausstattung |
 | :---: | :---: | :---: |
-| <img height="2000" alt="Screenshot_2026-08-20-13-22-52-631_com shadow desitrain" src="https://github.com/user-attachments/assets/405bc8eb-5434-4d2c-80b5-d928a7aea8bd" /> | <img height="2000" alt="Screenshot_2026-08-20-13-23-05-813_com shadow desitrain" src="https://github.com/user-attachments/assets/863f1266-8243-4443-8d56-e23fc8733357" />
-| <img height="2000" alt="Screenshot_2026-08-20-13-23-20-662_com shadow desitrain" src="https://github.com/user-attachments/assets/a2146c10-f6c7-4858-a95b-8c20722b5364" />
+| <img height="1000" alt="Screenshot_2026-08-20-13-22-52-631_com shadow desitrain" src="https://github.com/user-attachments/assets/405bc8eb-5434-4d2c-80b5-d928a7aea8bd" /> | <img height="1000" alt="Screenshot_2026-08-20-13-23-05-813_com shadow desitrain" src="https://github.com/user-attachments/assets/863f1266-8243-4443-8d56-e23fc8733357" />
+| <img height="1000" alt="Screenshot_2026-08-20-13-23-20-662_com shadow desitrain" src="https://github.com/user-attachments/assets/a2146c10-f6c7-4858-a95b-8c20722b5364" />
 |
 
 ---
